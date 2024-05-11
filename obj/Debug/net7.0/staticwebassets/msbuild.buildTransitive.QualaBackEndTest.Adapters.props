@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\QualaBackEndTest.Adapters.props" />
+</Project>
